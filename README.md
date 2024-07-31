@@ -1,2 +1,13 @@
-# Node-red-dashboard
-The Node-RED dashboard provides a customizable web-based interface for real-time data visualization and control. It features various widgets like charts, gauges, and buttons to monitor sensors and control devices. Ideal for IoT and home automation, it enhances Node-RED flows with user-friendly layouts and interactive elements.
+# Project-VELO - **Version 3.0**
+
+<a name="top"></a>
+
+Curated by **Gimhan Dayarathna**, this repository contains the complete comprehensive suite of Project VELO deployed at Monarch Residencies.
+
+## Table of Contents
+1. [Flashing the Orin NX](#flashing-the-orin-nx)
+    - [From terminal](#from-terminal)
+    - [From SDKManager](#from-sdkmanager)
+2. [Automatic Device Set up Order](#automatic-device-set-up-order)
+3. [Manual Device Set up Order](#manual-device-set-up-order)
+4. [Project VELO Github Set up](#project-velo-github-set-up)
