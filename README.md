@@ -107,6 +107,18 @@ Created by **Chamuditha Ekanayake**, this repository contains the complete Node-
 
 <div align="center">
 
-<h4 align="justify">Before installing Node-RED, you need to install <b><i>Node.js </i></b>, which is the underlying platform Node-RED runs on.</h4>
+<h4 align="justify">Before installing Node-RED, you need to install <a href="https://nodejs.org/en"> <b><i>Node.js </i></b></a>  , which is the underlying platform Node-RED runs on.</h4>
+
+<ul align="justify">
+    <dt>
+        <strong>Download Node.js:</strong><br>
+         <dd><li> Go to the <a href="https://nodejs.org/en"> Node.js </a> website and download the latest LTS version. </li></dd>
+    </dt>
+    </dt>
+        <strong>Install Node.js:</strong><br>
+        <dd><li> Follow the installation instructions for your operating system. </li></dd>
+    </dt>
+</ul>
+
 
 </div>
