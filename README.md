@@ -2,7 +2,7 @@
 
 <a name="top"></a>
 
-Created by **Chamuditha Ekanayake**, this repository contains the complete Node-RED dashboard suite for Project VELO AI. It includes all necessary configurations and widgets for displaying and managing real-time data.
+Created by **Chamuditha Ekanayake**, this repository contains the complete Node-RED dashboard suite for Project VELO AI. It includes all necessary configurations and widgets for displaying and managing real-time data. Update README.md
 
 ## Table of Contents
 1. [Introduction to Node-RED](#Introduction-to-Node-RED)
@@ -36,7 +36,7 @@ Created by **Chamuditha Ekanayake**, this repository contains the complete Node-
 <h4 style="text-align: justify"> Node-RED is a powerful, open-source flow-based development tool for visual programming. It is primarily used for wiring together devices, APIs, and online services in new and interesting ways. Developed by IBM, it provides a browser-based editor that makes it easy to wire together flows using a wide range of nodes. Node-RED is especially popular in IoT and home automation projects for its ease of use and integration capabilities. 
 </h4>
 <h3 style="text-align: left" >Key Features</h3>
-<ul style="text-align: justify;">
+<ul style="text-align: left">
     <li>Browser-based flow editor</li>
     <li>Wide range of pre-built nodes</li>
     <li>Extensible with custom nodes</li>
