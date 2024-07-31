@@ -16,6 +16,10 @@ Created by **Chamuditha Ekanayake**, this repository contains the complete Node-
         - [Prerequisites](#prerequisites)
         - [Installing Node-RED Packages](#installing-node-red-packages)
         - [Initial Setup and Configuration](#initial-setup-and-configuration)
+    - [For Linux](#for-linux)
+        - [Prerequisites](#prerequisites)
+        - [Installing Node-RED Packages](#installing-node-red-packages)
+        - [Initial Setup and Configuration](#initial-setup-and-configuration)
 5. [Getting Started with Node-RED](#getting-started-with-node-red)
     - [Opening Node-RED](#opening-node-red)
     - [Basic Workflow Creation and Management](#basic-workflow-oreation-and-management)
@@ -104,7 +108,7 @@ Created by **Chamuditha Ekanayake**, this repository contains the complete Node-
 
 ## Installing Node-RED
 
-### <b><i> For Windows </i></b>
+### For Windows 
 
 ### Prerequisites
 
@@ -140,5 +144,102 @@ Created by **Chamuditha Ekanayake**, this repository contains the complete Node-
     
 </ol>
 
+</div>
+
+### Initial Setup and Configuration
+
+<div align="center">
+
+
+
+<ol align="justify">
+    <li>Start Node-RED:</li>
+    <ul>
+        <li> Run the following command in your terminal: </li></dd>
+        <pre><code> node-red </code></pre>
+    </ul>
+    <li>Access the Node-RED Editor:</li>
+    <ul>
+        <li> Open a web browser and navigate to <a href="http://localhost:1880">http://localhost:1880 </a> </li></dd>
+    </ul>
+    
+</ol>
+
+</div>
+
+
+<br>
+
+
+
+### For Linux
+
+### Prerequisites
+
+<div align="center">
+
+<ol align="justify">
+    <li>Update Package Lists:</li>
+    <pre><code> sudo apt update </code></pre>
+    <li>Install Required Dependencies:</li>
+    <ul>
+        <li> Ensure you have curl installed to download Node.js setup script: </li></dd>
+        <pre><code> sudo apt install curl </code></pre>
+    </ul>
+    
+</ol>
+
+</div>
+<br>
+
+
+### Installing Node-RED Packages
+
+<br>
+
+<div align="center">
+
+<ol align="justify">
+    <li>Install Node.js:</li>
+    <ul>
+        <li> Install Node.js and npm from the NodeSource repository. This will also install npm (Node Package Manager): </li></dd>
+        <pre><code> curl -fsSL https://deb.nodesource.com/setup_18.x | sudo -E bash - </code></pre>
+        <pre><code> sudo apt install -y nodejs </code></pre>
+    </ul>
+    <li>Verify Node.js and npm Installation:</li>
+    <ul>
+        <li> Check that Node.js and npm are installed correctly: </li></dd>
+        <pre><code> node -v </code></pre>
+        <pre><code> npm -v </code></pre>
+    </ul>
+    <li>Install Node-RED:</li>
+    <ul>
+        <li> Install Node-RED globally using npm: </li></dd>
+        <pre><code> sudo npm install -g node-red </code></pre>
+    </ul>
+    
+</ol>
+
+</div>
+
+### Initial Setup and Configuration
+
+<br>
+
+<div align="center">
+
+<ol align="justify">
+    <li>Start Node-RED:</li>
+    <ul>
+        <li> Launch Node-RED to start the server: </li></dd>
+        <pre><code> node-red </code></pre>
+    </ul>
+    <li>Access Node-RED Editor:</li>
+    <ul>
+        <li> Open your web browser and go to </li></dd>
+        <pre><code> http://localhost:1880 </code></pre>
+    </ul>
+    
+</ol>
 
 </div>
