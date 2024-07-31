@@ -15,3 +15,6 @@ Created by **Chamuditha Ekanayake**, this repository contains the complete Node-
     - [Prerequisites: Installing Node.js]
     - [Installing Node-RED Packages]
     - [Initial Setup and Configuration]
+5. [Getting Started with Node-RED](#project-velo-github-set-up)
+    - [Opening Node-RED]
+    - [Basic Workflow Creation and Management]
