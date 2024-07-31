@@ -28,7 +28,7 @@ Created by **Chamuditha Ekanayake**, this repository contains the complete Node-
     <h1></h1>
     <a href="https://wiki.seeedstudio.com/reComputer_J4012_Flash_Jetpack/">
         <img src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Node-red-icon.png"
-            alt="Seeed Studio Image"
+            alt="Node-RED"
             width="400"
             height="300">
     </a>
@@ -44,8 +44,21 @@ Created by **Chamuditha Ekanayake**, this repository contains the complete Node-
     <li>Supports MQTT, HTTP, WebSocket, and more</li>
     <li>Flow and subflow capabilities for reusable code</li>
 </ul>
+</div>
 
 
 
+## Purpose and Applications
+
+### Common Use Cases
+
+<h4 align="justify"><b>Node-RED is versatile and can be used in numerous scenarios</b></h4>
+<ul align="justify">
+    <li><b>IoT Projects:</b> Connect and control IoT devices, gather and visualize sensor data, and automate smart home systems.</li>
+    <li><b>Home Automation: </b>Manage lighting, climate control, security systems, and more from a centralized dashboard.</li>
+    <li><b>Industrial Monitoring:</b> Monitor and control industrial processes, track equipment status, and visualize operational data.</li>
+    <li><b>API Integration:</b> Create API workflows, connect different services, and manage data flows between them.</li>
+    <li><b>Data Visualization: </b>Build real-time dashboards to visualize data from various sources.</li>
+</ul>
 
 </div>
