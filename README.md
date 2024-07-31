@@ -33,10 +33,10 @@ Created by **Chamuditha Ekanayake**, this repository contains the complete Node-
             height="300">
     </a>
 
-<h4 style="text-align: justify"> Node-RED is a powerful, open-source flow-based development tool for visual programming. It is primarily used for wiring together devices, APIs, and online services in new and interesting ways. Developed by IBM, it provides a browser-based editor that makes it easy to wire together flows using a wide range of nodes. Node-RED is especially popular in IoT and home automation projects for its ease of use and integration capabilities. 
-</h4>
-<h3 style="text-align: left" >Key Features</h3>
-<ul style="text-align: left">
+<h4 style="text-align: justify;">Node-RED is a powerful, open-source flow-based development tool for visual programming. It is primarily used for wiring together devices, APIs, and online services in new and interesting ways. Developed by IBM, it provides a browser-based editor that makes it easy to wire together flows using a wide range of nodes. Node-RED is especially popular in IoT and home automation projects for its ease of use and integration capabilities.</h4>
+
+<h3>Key Features</h3>
+<ul>
     <li>Browser-based flow editor</li>
     <li>Wide range of pre-built nodes</li>
     <li>Extensible with custom nodes</li>
@@ -44,6 +44,7 @@ Created by **Chamuditha Ekanayake**, this repository contains the complete Node-
     <li>Supports MQTT, HTTP, WebSocket, and more</li>
     <li>Flow and subflow capabilities for reusable code</li>
 </ul>
+
 
 
 
