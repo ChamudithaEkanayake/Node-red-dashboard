@@ -52,6 +52,8 @@ Created by **Chamuditha Ekanayake**, this repository contains the complete Node-
 
 ### Common Use Cases
 
+<div align="center">
+
 <h4 align="justify"><b>Node-RED is versatile and can be used in numerous scenarios</b></h4>
 <ul align="justify">
     <li><b>IoT Projects:</b> Connect and control IoT devices, gather and visualize sensor data, and automate smart home systems.</li>
@@ -60,5 +62,13 @@ Created by **Chamuditha Ekanayake**, this repository contains the complete Node-
     <li><b>API Integration:</b> Create API workflows, connect different services, and manage data flows between them.</li>
     <li><b>Data Visualization: </b>Build real-time dashboards to visualize data from various sources.</li>
 </ul>
+
+<h1></h1>
+<a href="https://wiki.seeedstudio.com/reComputer_J4012_Flash_Jetpack/">
+        <img src="https://www.iqhome.org/image/cache/catalog/solutions/flowcharts/Outputs/node-red_output-2722x1080.png"
+            alt="Use of Node-RED"
+            width="500"
+            height="300">
+    </a>
 
 </div>
