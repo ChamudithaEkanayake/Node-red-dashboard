@@ -5,14 +5,14 @@
 Created by **Chamuditha Ekanayake**, this repository contains the complete Node-RED dashboard suite for Project VELO AI. It includes all necessary configurations and widgets for displaying and managing real-time data. Update README.md
 
 ## Table of Contents
-1. [Introduction to Node-RED](#Introduction-to-Node-RED)
+1. [Introduction of Node-RED](#Introduction-of-Node-RED)
     - [Overview and Features](#Overview-and-Features)
 2. [Purpose and Applications](#Purpose-and-Applications)
     - [Common Use Cases](#Common-Use-Cases)
 3. [Required Hardware](#Required-Hardware)
     - [Minimum System Requirements](#Minimum-System-Requirements)
 4. [Installing Node-RED](#Installing-Node-RED)
-    - [Pre requisites](#Pre-requisites)
+    - [Prerequisites](#Prerequisites)
     - [Installing Node-RED Packages](#Installing-Node-RED-Packages)
     - [Initial Setup and Configuration](#Initial-Setup-and-Configuration)
 5. [Getting Started with Node-RED](#Getting-Started-with-Node-RED)
@@ -20,7 +20,10 @@ Created by **Chamuditha Ekanayake**, this repository contains the complete Node-
     - [Basic Workflow Creation and Management](#Basic-Workflow-Creation-and-Management)
 
 
-## Introduction to Node-RED
+
+
+
+## Introduction of Node-RED
 
 ### Overview and Features
 
@@ -48,6 +51,8 @@ Created by **Chamuditha Ekanayake**, this repository contains the complete Node-
 
 
 
+
+
 ## Purpose and Applications
 
 ### Common Use Cases
@@ -70,5 +75,38 @@ Created by **Chamuditha Ekanayake**, this repository contains the complete Node-
             width="500"
             height="300">
     </a>
+
+</div>
+
+
+
+
+
+## Required Hardware
+
+### Minimum System Requirements
+
+
+<h3></h3>
+<h4 align="justify"><b>Node-RED is versatile and can be used in numerous scenarios</b></h4>
+<ul align="justify">
+    <li>Processor: 1 GHz or faster</li>
+    <li>Memory: 512 MB RAM (1 GB recommended)</li>
+    <li>Storage: 100 MB available disk space</li>
+    <li>Operating System: Windows, macOS, Linux, or Raspberry Pi OS</li>
+</ul>
+
+<h1></h1>
+
+
+
+
+## Installing Node-RED
+
+### Prerequisites
+
+<div align="center">
+
+<h4 align="justify">Before installing Node-RED, you need to install <b><i>Node.js </i></b>, which is the underlying platform Node-RED runs on.</h4>
 
 </div>
