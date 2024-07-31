@@ -5,19 +5,20 @@
 Created by **Chamuditha Ekanayake**, this repository contains the complete Node-RED dashboard suite for Project VELO AI. It includes all necessary configurations and widgets for displaying and managing real-time data. Update README.md
 
 ## Table of Contents
-1. [Introduction of Node-RED](#Introduction-of-Node-RED)
-    - [Overview and Features](#Overview-and-Features)
-2. [Purpose and Applications](#Purpose-and-Applications)
-    - [Common Use Cases](#Common-Use-Cases)
-3. [Required Hardware](#Required-Hardware)
-    - [Minimum System Requirements](#Minimum-System-Requirements)
-4. [Installing Node-RED](#Installing-Node-RED)
-    - [Prerequisites](#Prerequisites)
-    - [Installing Node-RED Packages](#Installing-Node-RED-Packages)
-    - [Initial Setup and Configuration](#Initial-Setup-and-Configuration)
-5. [Getting Started with Node-RED](#Getting-Started-with-Node-RED)
-    - [Opening Node-RED](#Opening-Node-RED)
-    - [Basic Workflow Creation and Management](#Basic-Workflow-Creation-and-Management)
+1. [Introduction of Node-RED](#introduction-of-node-red)
+    - [Overview and Features](#overview-and-features)
+2. [Purpose and Applications](#purpose-and-applications)
+    - [Common Use Cases](#common-use-cases)
+3. [Required Hardware](#required-hardware)
+    - [Minimum System Requirements](#minimum-system-requirements)
+4. [Installing Node-RED](#installing-node-red)
+    - [For Windows](#for-windows)
+        - [Prerequisites](#prerequisites)
+        - [Installing Node-RED Packages](#installing-node-red-packages)
+        - [Initial Setup and Configuration](#initial-setup-and-configuration)
+5. [Getting Started with Node-RED](#getting-started-with-node-red)
+    - [Opening Node-RED](#opening-node-red)
+    - [Basic Workflow Creation and Management](#basic-workflow-oreation-and-management)
 
 
 
@@ -103,6 +104,8 @@ Created by **Chamuditha Ekanayake**, this repository contains the complete Node-
 
 ## Installing Node-RED
 
+### <b><i> For Windows </i></b>
+
 ### Prerequisites
 
 <div align="center">
@@ -119,6 +122,23 @@ Created by **Chamuditha Ekanayake**, this repository contains the complete Node-
         <dd><li> Follow the installation instructions for your operating system. </li></dd>
     </dt>
 </ul>
+<h1></h1>
+
+</div>
+
+
+### Installing Node-RED Packages
+
+<div align="center">
+
+<h4 align="justify">Once <a href="https://nodejs.org/en"> Node.js </a> is installed, you can install Node-RED using npm (Node Package Manager).</h4>
+
+<ol align="justify">
+    <li>Open a terminal or command prompt.</li>
+    <li>Install Node-RED:</li>
+    <pre><code> npm install -g node-red </code></pre>
+    
+</ol>
 
 
 </div>
