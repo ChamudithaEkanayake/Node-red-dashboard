@@ -2,7 +2,7 @@
 
 <a name="top"></a>
 
-Curated by **Gimhan Dayarathna**, this repository contains the complete comprehensive suite of Project VELO deployed at Monarch Residencies.
+Created by **Chamuditha Ekanayake**, this repository contains the complete Node-RED dashboard suite for Project VELO AI. It includes all necessary configurations and widgets for displaying and managing real-time data.
 
 ## Table of Contents
 1. [Introduction to Node-RED](#flashing-the-orin-nx)
