@@ -43,8 +43,8 @@ Created by **Chamuditha Ekanayake**, this repository contains the complete Node-
 
 <h4 align="justify">Node-RED is a powerful, open-source flow-based development tool for visual programming. It is primarily used for wiring together devices, APIs, and online services in new and interesting ways. Developed by IBM, it provides a browser-based editor that makes it easy to wire together flows using a wide range of nodes. Node-RED is especially popular in IoT and home automation projects for its ease of use and integration capabilities.</h4>
 
-<h3 align="justify">Key Features</h3>
-<ul align="justify">
+<h3 align="left">Key Features</h3>
+<ul align="left">
     <li>Browser-based flow editor</li>
     <li>Wide range of pre-built nodes</li>
     <li>Extensible with custom nodes</li>
@@ -64,8 +64,8 @@ Created by **Chamuditha Ekanayake**, this repository contains the complete Node-
 
 <div align="center">
 
-<h4 align="justify"><b>Node-RED is versatile and can be used in numerous scenarios</b></h4>
-<ul align="justify">
+<h4 align="left"><b>Node-RED is versatile and can be used in numerous scenarios</b></h4>
+<ul align="left">
     <li><b>IoT Projects:</b> Connect and control IoT devices, gather and visualize sensor data, and automate smart home systems.</li>
     <li><b>Home Automation: </b>Manage lighting, climate control, security systems, and more from a centralized dashboard.</li>
     <li><b>Industrial Monitoring:</b> Monitor and control industrial processes, track equipment status, and visualize operational data.</li>
@@ -93,8 +93,8 @@ Created by **Chamuditha Ekanayake**, this repository contains the complete Node-
 
 
 <h3></h3>
-<h4 align="justify"><b>Node-RED is versatile and can be used in numerous scenarios</b></h4>
-<ul align="justify">
+<h4 align="left"><b>Node-RED is versatile and can be used in numerous scenarios</b></h4>
+<ul align="left">
     <li>Processor: 1 GHz or faster</li>
     <li>Memory: 512 MB RAM (1 GB recommended)</li>
     <li>Storage: 100 MB available disk space</li>
@@ -116,7 +116,7 @@ Created by **Chamuditha Ekanayake**, this repository contains the complete Node-
 
 <h4 align="left">Before installing Node-RED, you need to install <a href="https://nodejs.org/en"> <b><i>Node.js </i></b></a>  , which is the underlying platform Node-RED runs on.</h4>
 
-<ul align="justify">
+<ul align="left">
     <dt>
         <strong>Download Node.js:</strong><br>
          <dd><li> Go to the <a href="https://nodejs.org/en"> Node.js </a> website and download the latest LTS version. </li></dd>
