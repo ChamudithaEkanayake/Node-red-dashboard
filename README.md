@@ -114,7 +114,7 @@ Created by **Chamuditha Ekanayake**, this repository contains the complete Node-
 
 <div align="center">
 
-<h4 align="justify">Before installing Node-RED, you need to install <a href="https://nodejs.org/en"> <b><i>Node.js </i></b></a>  , which is the underlying platform Node-RED runs on.</h4>
+<h4 align="left">Before installing Node-RED, you need to install <a href="https://nodejs.org/en"> <b><i>Node.js </i></b></a>  , which is the underlying platform Node-RED runs on.</h4>
 
 <ul align="justify">
     <dt>
@@ -135,9 +135,9 @@ Created by **Chamuditha Ekanayake**, this repository contains the complete Node-
 
 <div align="center">
 
-<h4 align="justify">Once <a href="https://nodejs.org/en"> Node.js </a> is installed, you can install Node-RED using npm (Node Package Manager).</h4>
+<h4 align="left">Once <a href="https://nodejs.org/en"> Node.js </a> is installed, you can install Node-RED using npm (Node Package Manager).</h4>
 
-<ol align="justify">
+<ol align="left">
     <li>Open a terminal or command prompt.</li>
     <li>Install Node-RED:</li>
     <pre><code> npm install -g node-red </code></pre>
@@ -152,7 +152,7 @@ Created by **Chamuditha Ekanayake**, this repository contains the complete Node-
 
 
 
-<ol align="justify">
+<ol align="left">
     <li>Start Node-RED:</li>
     <ul>
         <li> Run the following command in your terminal: </li></dd>
@@ -178,7 +178,7 @@ Created by **Chamuditha Ekanayake**, this repository contains the complete Node-
 
 <div align="center">
 
-<ol align="justify">
+<ol align="left">
     <li>Update Package Lists:</li>
     <pre><code> sudo apt update </code></pre>
     <li>Install Required Dependencies:</li>
@@ -199,7 +199,7 @@ Created by **Chamuditha Ekanayake**, this repository contains the complete Node-
 
 <div align="center">
 
-<ol align="justify">
+<ol align="left">
     <li>Install Node.js:</li>
     <ul>
         <li> Install Node.js and npm from the NodeSource repository. This will also install npm (Node Package Manager): </li></dd>
@@ -228,7 +228,7 @@ Created by **Chamuditha Ekanayake**, this repository contains the complete Node-
 
 <div align="center">
 
-<ol align="justify">
+<ol align="left">
     <li>Start Node-RED:</li>
     <ul>
         <li> Launch Node-RED to start the server: </li></dd>
