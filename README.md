@@ -15,11 +15,9 @@ Created by **Chamuditha Ekanayake**, this repository contains the complete Node-
     - [For Windows](#for-windows)
         - [Prerequisites](#prerequisites)
         - [Installing Node-RED Packages](#installing-node-red-packages)
-        - [Initial Setup and Configuration](#initial-setup-and-configuration)
     - [For Linux](#for-linux)
         - [Prerequisites](#prerequisites)
         - [Installing Node-RED Packages](#installing-node-red-packages)
-        - [Initial Setup and Configuration](#initial-setup-and-configuration)
 5. [Getting Started with Node-RED](#getting-started-with-node-red)
     - [Opening Node-RED](#opening-node-red)
     - [Basic Workflow Creation and Management](#basic-workflow-oreation-and-management)
@@ -146,26 +144,6 @@ Created by **Chamuditha Ekanayake**, this repository contains the complete Node-
 
 </div>
 
-### Initial Setup and Configuration
-
-<div align="center">
-
-
-
-<ol align="left">
-    <li>Start Node-RED:</li>
-    <ul>
-        <li> Run the following command in your terminal: </li></dd>
-        <pre><code> node-red </code></pre>
-    </ul>
-    <li>Access the Node-RED Editor:</li>
-    <ul>
-        <li> Open a web browser and navigate to <a href="http://localhost:1880">http://localhost:1880 </a> </li></dd>
-    </ul>
-    
-</ol>
-
-</div>
 
 
 <br>
@@ -222,22 +200,30 @@ Created by **Chamuditha Ekanayake**, this repository contains the complete Node-
 
 </div>
 
-### Initial Setup and Configuration
-
 <br>
 
+
+
+
+
+## Getting Started with Node-RED
+
+### Opening Node-RED
+
+
 <div align="center">
+
+
 
 <ol align="left">
     <li>Start Node-RED:</li>
     <ul>
-        <li> Launch Node-RED to start the server: </li></dd>
+        <li> Run the following command in your terminal: </li></dd>
         <pre><code> node-red </code></pre>
     </ul>
-    <li>Access Node-RED Editor:</li>
+    <li>Access the Node-RED Editor:</li>
     <ul>
-        <li> Open your web browser and go to </li></dd>
-        <pre><code> http://localhost:1880 </code></pre>
+        <li> Open a web browser and navigate to <a href="http://localhost:1880">http://localhost:1880 </a> </li></dd>
     </ul>
     
 </ol>
